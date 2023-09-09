@@ -1,11 +1,11 @@
-**Section 1: Connecting to MARS**
+<h2>Section 1: Connecting to MARS</h2>
 
 1. Navigate to the MARS website for virtual desktop access.
 2. Connect to the virtual private network (VPN) in MARS.
 3. Start your Windows virtual machine (VM).
 4. Download and launch a premade Remote Desktop Protocol (RDP) file to connect to a remote system.
 
-**Section 2: Analyzing Passwords of Devices on the Network**
+<h2>Section 2: Analyzing Passwords of Devices on the Network</h2>
 
 1. Launch Cisco Packet Tracer and add a Cisco router to the workspace.
 2. Rename the router to your first name followed by "Router."
@@ -21,7 +21,7 @@
 12. Add a wordlist for the attack and start the cracking process.
 
 
-**Section 3: Analyzing Windows Passwords**
+<h2>Section 3: Analyzing Windows Passwords</h2>
 
 1. Open the Local Group Policy Editor.
 2. Disable the "Password must meet complexity requirements" policy.
@@ -33,8 +33,7 @@
 8. Capture the cracked passwords for some accounts.
 9. Perform Brute-Force Attacks on other accounts with varying complexities.
 
-
-**Section 4: Analyzing Linux Passwords**
+<h2>Section 4: Analyzing Linux Passwords</h2>
 
 1. Connect to the Kali Linux virtual machine.
 2. Retrieve the Linux password from the login section.
@@ -44,6 +43,6 @@
 6. Redirect the password hashes to a new file.
 7. Use John the Ripper to crack the Linux password hashes.
 
-**Conclusion:**
+<h2>Conclusion:</h2>
 
 In conclusion, this lab exercise has provided me with valuable insights into password security, vulnerability assessment, and password cracking techniques. I've learned the critical importance of strong, unique passwords, secure configurations, and flexible yet effective password policies. As an aspiring analyst in the field of cybersecurity, these experiences have equipped me with the knowledge and skills needed to identify and mitigate password-related security risks effectively. I am now better prepared to contribute to the development of robust security strategies and policies, enhancing overall system security in my future endeavors.
