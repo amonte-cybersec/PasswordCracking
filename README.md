@@ -1,3 +1,7 @@
+<h2>Description</h2>
+
+This project centers on the analysis and assessment of network security, specifically focusing on password-related vulnerabilities across various systems. Beginning with the setup of a virtual environment through the MARS platform and connecting via VPN, the project delves into password analysis on Cisco routers, Windows, and Linux systems. It entails tasks such as configuring and encrypting router passwords, using password cracking tools to assess Cisco IOS-MD5 hashes, disabling password complexity requirements in Windows, creating user accounts, and performing dictionary and brute-force attacks to assess password security. The project provides a practical hands-on approach to identifying and mitigating password vulnerabilities, enhancing overall network security.
+
 <h2>Section 1: Connecting to MARS</h2>
 
 1. Navigate to the MARS website for virtual desktop access.
